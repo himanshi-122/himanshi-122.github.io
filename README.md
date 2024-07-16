@@ -1,2 +1,2 @@
-live at https://github.com/himanshi-122.github.io
+live at https://himanshi-122.github.io/
 
